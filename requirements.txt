@@ -25,3 +25,5 @@ python-dotenv
 youtube_search
 
 streamlit
+duckduckgo-search
+yfinance
